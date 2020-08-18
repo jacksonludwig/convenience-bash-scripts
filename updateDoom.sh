@@ -1,0 +1,2 @@
+doom upgrade
+doom compile
